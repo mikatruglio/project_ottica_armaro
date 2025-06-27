@@ -31,9 +31,8 @@
                     </h2>
                     <p>
 
-                        lenti a contatto, occhiali da vista e da sole di alta qualità. <br> Combinando
-                        tecnologia avanzata e design moderno, offriamo soluzioni per migliorare la vostra visione e il
-                        vostro stile. <br> Esplorate il nostro catalogo per trovare il prodotto perfetto per voi.
+                        Lenti a contatto, occhiali da vista e da sole. <br> Offriamo soluzioni per migliorare la vostra visione e il
+                        vostro stile. <br> Esplorate la nostra pagina per trovare il prodotto perfetto.
                     </p>
                 </div>
             </div>
@@ -50,14 +49,11 @@
             <div class="col-12 col-md-6 col-lg-4 nunito-text d-flex flex-column align-items-center mt-sm-50 mb-sm-40">
                 <div class="box-description">
                     <h3 class="home-text-color">Occhiali da vista </h3>
-                    <p>La nostra collezione di montature e lenti di alta qualità, pensate per garantire una visione
-                        chiara e confortevole in ogni situazione.</p>
-                    <p> Con una vasta gamma di design che spaziano dal classico al moderno, troverete l'occhiale
-                        perfetto per il vostro stile personale e le vostre esigenze visive.</p>
+                    <p>Offriamo una gamma completa di occhiali da vista da donna e da uomo. Scopri le montature e i colori disponibili e trova il modello che si adatta al tuo viso.</p>
                     <p>
                         <hr class="home-text-color">
-                        Scegliete tra le nostre opzioni personalizzabili per migliorare non solo la vostra vista, ma
-                        anche il vostro look quotidiano.
+                        Scegli tra le nostre opzioni personalizzabili per migliorare non solo la tua vista, ma
+                        anche il tuo look quotidiano.
                     </p>
                 </div>
             </div>
@@ -94,9 +90,7 @@
             <div class="col-12 col-md-6 col-lg-4 nunito-text d-flex flex-column align-items-center mt-sm-50 mb-sm-40">
                 <div class="box-description">
                     <h3 class="home-text-color">Occhiali da sole </h3>
-                    <p>La nostra collezzione di occhiali da sole, dove stile e protezione si incontrano.</p>
-                    <p> Scoprite la nostra collezione, che offre una varietà di design eleganti e funzionali per ogni
-                        gusto e necessità.</p>
+                    <p>Scopri la nostra collezzione di occhiali da sole, dove stile e protezione si incontrano.</p>
                     <p>Dai modelli classici a quelli più alla moda, ogni paio è progettato per proteggere i vostri occhi
                         dai raggi UV, garantendo al contempo un comfort eccellente.</p>
                     <hr class="home-text-color">
@@ -161,8 +155,7 @@
                     <h3 class="home-text-color">Occhiali per bambino sotto i 10 anni</h3>
                     <p> E' fondamentale scegliere montature resistenti, leggere e confortevoli, preferibilmente in
                         materiali flessibili, che possano resistere agli urti e alle attività quotidiane.</p>
-                    <p>E' inoltre consigliabile optare per lenti con protezione UV, per salvaguardare gli occhi dei più
-                        piccoli dai dannosi raggi solari.</p>
+                    <p>E' inoltre consigliabile optare per lenti con trattamento antiriflesso, protezione UV e luce blu, per salvaguardare gli occhi dei più piccoli.</p>
                     <hr>
                     <p>Gli occhiali per bambino possono anche essere personalizzati con design colorati, rendendo
                         l'esperienza più divertente e incoraggiandoli a indossarli con piacere.</p>
@@ -193,10 +186,10 @@
                 <div class="box-description">
                     <h3 class="home-text-color">Lenti a contatto </h3>
                     <p>Le lenti a contatto offrono una soluzione versatile per la correzione della vista, garantendo
-                        libertà di movimento e un campo visivo completo 180°.</p>
+                        libertà di movimento e un campo visivo completo a 180°.</p>
                     <p>
                         <hr>
-                        Disponibili in diverse tipologie, come giornaliere, settimanali o mensili, le lenti a contatto
+                        Disponibili in diverse tipologie, giornaliere, settimanali o mensili, 
                         si adattano alle esigenze di ogni individuo.
                     </p>
                 </div>
@@ -217,7 +210,7 @@
     <div class="container-fluid d-flex flex-column justify-content-center align-items-center bg-light  mt-5">
         <div class="row justify-content-center aligni--items-center w-100 h250 ">
             <div class="col-col-12 d-flex flex-column justify-content-center text-center ">
-                <h2 class="home-text-color">Lenti Transitions</h2>
+                <h2 class="home-text-color">Lenti galileo transitions</h2>
                 <p>Le lenti inteligenti alla luce che si adattano ad ogni condizione di luminosità</p>
             </div>
         </div>

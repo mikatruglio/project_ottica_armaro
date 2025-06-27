@@ -20,20 +20,20 @@ return new class extends Migration
         }
 
         // Crea gli utenti admin solo se non esistono già
-        if (!User::where('email', 'admin@theaulabpost.it')->exists()) {
+        if (!User::where('email', 'a.mariatina@alice.it')->exists()) {
             User::create([
-                'name' => 'GeppeSkywalker',
-                'email' => 'admin@theaulabpost.it',
-                'password' => bcrypt('12345678'),
+                'name' => 'MariaTina',
+                'email' => 'a.mariatina@alice.it',
+                'password' => bcrypt(env('ADMIN1_PASSWORD', 'default1')),
                 'is_admin' => true,
             ]);
         }
 
-        if (!User::where('email', 'admin@the.it')->exists()) {
+        if (!User::where('email', 'giuseppe.truglio.1592@gmail.com')->exists()) {
             User::create([
-                'name' => 'Mika',
-                'email' => 'admin@the.it',
-                'password' => bcrypt('12345678'),
+                'name' => 'Peppe',
+                'email' => 'giuseppe.truglio.1592@gmail.com',
+                'password' => bcrypt(env('ADMIN2_PASSWORD', 'default2')),
                 'is_admin' => true,
             ]);
         }
@@ -45,8 +45,8 @@ return new class extends Migration
     public function down(): void
     {
         // Rimuovi gli utenti admin se esistono
-        User::where('email', 'admin@theaulabpost.it')->delete();
-        User::where('email', 'admin@the.it')->delete();
+        User::where('email', 'a.mariatina@alice.it')->delete();
+        User::where('email', 'giuseppe.truglio.1592@gmail.com')->delete();
 
         // Rimuovi la colonna is_admin
         Schema::table('users', function (Blueprint $table) {

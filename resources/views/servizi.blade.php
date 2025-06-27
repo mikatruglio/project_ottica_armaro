@@ -29,7 +29,7 @@
                         <li> <a class="ancor-color-black" href="#analisi-visiva">Analisi visiva</a></li>
                         <li> <a class="ancor-color-black" href="#Centratura-dell-occhiale">Centratura dell'occhiale</a>
                         </li>
-                        <li> <a class="ancor-color-black" href="#Lenti-da-ufficio">Lenti da ufficio</a></li>
+                        <li> <a class="ancor-color-black" href="#Lenti-da-ufficio">Lenti progressive</a></li>
                         <li> <a class="ancor-color-black" href="#Occhiali-per-lo-sport-graduati">Occhiali per lo sport
                                 graduati</a></li>
                         <li> <a class="ancor-color-black"
@@ -186,13 +186,17 @@
                     class="col-12 col-md-6 col-lg-4 nunito-text d-flex flex-column align-items-center mt-sm-40 mb-sm-30">
                     <div class="box-description">
                         <h3>Lenti progressive </h3>
-                        <p>Le lenti progressive vengono progettata per correggere la
-                            presbiopia e altri disturbi visivi, permettendo una visione nitida a tutte le distanze senza
-                            linee di demarcazione visibili, come accade con le bifocali o trifocali. La superficie della
+                        <p>Le lenti progressive vengono progettate per correggere la
+                            presbiopia ed altri difetti visivi, permettendo una visione nitida a tutte le distanze senza
+                            linee di demarcazione visibili. </p>
+                            <p>
+                            La superficie della
                             lente è suddivisa in tre aree principali: la parte superiore per la visione da lontano, la
                             parte centrale per le distanze intermedie, e la parte inferiore per la lettura o la visione
-                            ravvicinata. Il passaggio tra queste tre zone è graduale e fluido, garantendo un’esperienza
-                            visiva naturale. Le lenti progressive sono adatte a chi cerca comfort visivo e un’estetica
+                            ravvicinata. </p>
+                            <p>
+                            Il passaggio tra queste tre zone è graduale e fluido, garantendo un’esperienza
+                            visiva naturale, adatta a chi cerca comfort visivo e un’estetica
                             senza linee visibili.</p>
 
                         <!--   <p>Le lenti da ufficio sono progettate per offrire comfort e prestazioni ottimali durante il
@@ -366,12 +370,8 @@
                 <!-- description sports glasses -->
                 <div class="col-12 col-md-6 col-lg-4 nunito-text d-flex flex-column align-items-center">
                     <div class="box-description pt-sm-50">
-                        <h3>garanzia di adattamento su lenti oftalmiche progresive</h3>
-                        <p>Le garanzie di adattamento sulle lenti oftalmiche progressive sono politiche offerte dai nostri
-                            produttori per garantire che i clienti si adattino correttamente a questo
-                            tipo di lente. Le lenti progressive, infatti, consentono una visione nitida a tutte le
-                            distanze (lontano, intermedio, vicino) senza la presenza di una linea di separazione
-                            visibile. <hr> Il passaggio da un campo visivo all'altro richiede un periodo di adattamento.
+                        <h3>garanzia di adattamento su lenti oftalmiche progressive</h3>
+                        <p>la garanzia e' valida 30 giorni e' ci consente di gestire i casi in cui il portatore non sia riuscito ad adattarsi alle lenti <hr> il centro ottico puo' proporre lenti a scelta su tutta la gamma
                         </p>
                     </div>
                 </div>

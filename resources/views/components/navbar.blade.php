@@ -36,7 +36,7 @@
                         <li><a class="dropdown-item" href="{{route('contattaci')}}">Contattaci</a></li>
 
                         @guest
-                        <li><a class="dropdown-item" href="{{route('register')}}">Registrati</a></li>
+                        <!-- <li><a class="dropdown-item" href="{{route('register')}}">Registrati</a></li> -->
                         <li><a class="dropdown-item" href="{{route('login')}}">Login</a></li>
                         @endguest
                         @auth

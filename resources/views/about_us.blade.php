@@ -73,9 +73,7 @@
                     <div class="box-description">
                         <h3 class="home-text-color">I nostri valori </h3>
 
-                        <p>La salute visiva e la soddisfazione dei clienti sono al centro di tutto. Offriamo
-                            soluzioni su misura, unendo alta qualità, innovazione tecnologica e attenzione
-                            personalizzata.
+                        <p>
                             <hr class="home-text-color">
                         </p>
                         <p>Crediamo in un servizio trasparente e onesto, dove ogni consulenza è pensata per
@@ -146,7 +144,7 @@
 
 
 
-        <!-- video about us -->
+        <!-- video about us 
         <div class="container-fluid mt-md-50 mb-md-50">
             <div class="row justify-content-center">
                 <div
@@ -154,9 +152,9 @@
                     <iframe class="video-size" src="https://www.youtube.com/embed/3zB1BVDEBbQ?si=egb5lT3fMZvdrdh4"
                         title="YouTube video player" frameborder="0"
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
                 </div>
-            </div>
+            </div> -->
 
 
             <!--
