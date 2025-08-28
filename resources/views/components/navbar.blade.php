@@ -2,9 +2,9 @@
     <div class="container-fluid">
         <!-- <div class="oa">
     <a class="navbar-brand" href=""></a></div> -->
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
+        <button class="navbar-toggler shadow-none" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
             aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
+            <span class="navbar-toggler-icon shadow-none"></span>
         </button>
         <div class="collapse navbar-collapse nunito-text fs-5" id="navbarNavDropdown">
             <ul class="navbar-nav mx-auto">

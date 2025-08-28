@@ -490,11 +490,11 @@ overflow-x: hidden;
 .bg-main-service2{
   width: 100%;
   height: 300px;
-  background-image: url(./immagini/lenti-mis-vista10.JPG);
+  background-image: url(./immagini/Galileo.jpg);
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  background-attachment: fixed;
+  
 }
 
 .bg-main-service3{
@@ -575,6 +575,10 @@ overflow-x: hidden;
   color :rgb(158, 125, 84)
 }
 
+.rust-color{
+  color :rgb(149, 72, 72)
+}
+
 
 .text-transparent-withe{
   color: rgba(255, 255, 255, 0.471);
@@ -622,6 +626,11 @@ text-decoration: none;
 
 /*button*/
 
+.shadow-none:hover,
+.shadow-none:active{
+  box-shadow: none;
+
+}
 
 .button-our-brand{
 
@@ -861,7 +870,7 @@ text-decoration: none;
 }
 
 .container-montature-per-lo-sport{
-  border-bottom: 2px solid rgba(255, 255, 255, 0.238);
+  border-bottom: 2px solid rgba(158, 125, 84, 0.303);
   padding-bottom: 50px;
 }
 
@@ -878,8 +887,8 @@ text-decoration: none;
 }*/
 
 .box-centratura-dell-occhiale {
-  background: linear-gradient(180deg, rgba(255, 255, 255, 0.423), rgba(202, 202, 202, 0.500), rgba(158, 125, 84, 0.500)); 
-
+ /* background: linear-gradient(180deg, rgba(255, 255, 255, 0.423), rgba(202, 202, 202, 0.500), rgba(158, 125, 84, 0.500)); */
+background-color: rgb(227, 227, 227);
 
 
 }
@@ -976,7 +985,7 @@ text-decoration: none;
 .container-promotions{
      width: 80%;
      min-height: 400px;
-     border: 1px solid black;
+     
      border-radius: 20px;
 
 }
@@ -1016,7 +1025,7 @@ text-decoration: none;
 
 .container-edit{
   width: 80%;
-  border: 1px solid black;
+ 
   border-radius: 20px;
   background-color: rgba(255, 255, 255, 0.409);
 }
@@ -1057,11 +1066,16 @@ text-decoration: none;
 }
 
 .bg-garanzie{
-  background: linear-gradient(180deg, rgba(255, 255, 255, 0.682), rgba(202, 202, 202, 0.695), rgb(158, 125, 84)), url(./immagini/maria-tina-occhiali-in-mano-luce-fredda.JPG);
+ /* background: linear-gradient(180deg, rgba(255, 255, 255, 0.682), rgba(202, 202, 202, 0.695), rgb(158, 125, 84)), url(./immagini/maria-tina-occhiali-in-mano-luce-fredda.JPG);*/
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.682), rgba(202, 202, 202, 0.695)), url(./immagini/maria-tina-occhiali-in-mano-luce-fredda.JPG);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
+
+  border-top: 2px solid rgba(255, 255, 255, 0.238);
+  border-bottom: 2px solid rgba(158, 125, 84, 0.277);
+;
 }
 
 /*media query*/
@@ -1241,15 +1255,6 @@ text-decoration: none;
     line-height: 1;
   }
 
-  .bg-main-img-about-us{
-    width: 100%;
-    height: 300px;
-    background-image: url(./immagini/220x125segnaleticaA.jpg);
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-   
-  }
 
   /*box imgs*/
 
@@ -1575,6 +1580,18 @@ text-decoration: none;
   justify-content: center;
 }
 
+
+  .bg-main-img-about-us{
+    width: 100%;
+    height: 300px;
+    background-image: url(./immagini/IMG_4045.JPG);
+    background-position:center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+   
+  }
+
 }
 
 
@@ -1641,6 +1658,9 @@ text-decoration: none;
     border-bottom: 1px solid  rgba(158, 125, 84, 0.382);
     
   }
+
+
+
 
 }
 
@@ -1891,17 +1911,17 @@ text-decoration: none;
     line-height: 0.5;
   }
 
-  .bg-main-img-about-us{
+ 
+   .bg-main-img-about-us{
     width: 100%;
     height: 400px;
-    background-image: url(./immagini/220x125segnaleticaA.jpg);
+    background-image: url(./immagini/IMG_4045.JPG);
     background-position:center;
     background-size: cover;
     background-repeat: no-repeat;
     
    
   }
-
 
 }
 
@@ -3832,16 +3852,7 @@ justify-content: center;
 
    
 
-      .bg-main-img-about-us{
-        width: 100%;
-        height: 400px;
-        background-image: url(./immagini/220x125segnaleticaA.jpg);
-        background-position: top -130px center;
-        background-size: cover;
-        background-repeat: no-repeat;
-        
-       
-      }
+    
     
     
 
@@ -3875,6 +3886,8 @@ box-shadow: 0 4px 6px rgba(0, 0, 0, 0.114);
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.114); 
   
   }
+
+
 
 
 
@@ -3936,4 +3949,84 @@ background-size: 90%;
 
 
 }
+
+
+
+@media (min-width: 1500px) {
+
+ .box-img-assistenza-post-vendita2 {
+  height: 650px;
+  width: 95%;
+  background-image: url(./immagini/giuseppe2.JPG);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  border-radius: 20px;
+  
+  
+}
+
+.box-img-assistenza-post-vendita {
+  height: 650px;
+  width: 95%;
+  background-image: url(./immagini/mariatina-assistenza.JPG);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  border-radius: 20px;
+  
+  
+} 
+ 
+
+}
+
+
+
+@media (min-width: 1750px) {
+
+ .box-img-assistenza-post-vendita2 {
+  height: 750px;
+  width: 95%;
+  background-image: url(./immagini/giuseppe2.JPG);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  border-radius: 20px;
+  
+  
+}
+
+.box-img-assistenza-post-vendita {
+  height: 750px;
+  width: 95%;
+  background-image: url(./immagini/mariatina-assistenza.JPG);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  border-radius: 20px;
+  
+  
+} 
+
+}
+
+
+@media (min-width: 768px) {
+
+.bg-main-img-about-us{
+        width: 100%;
+        height: 400px;
+        background-image: url(./immagini/475691818_1129332392222683_4695655543775744990_n.jpg);
+        background-position:center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        
+       
+      }
+
+}
+
+
+  
 

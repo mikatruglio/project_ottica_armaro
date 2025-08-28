@@ -33,16 +33,21 @@
                 <div
                     class="col-12 col-md-9 height-box d-flex flex-column justify-content-center text-center nunito-text">
                     <h2 class="home-text-color ">
-                        Ottica Armaro: Centro ottico esperto per i tuoi occhi!
+                        Ottica Armaro
                     </h2>
 
-                    <p>Benvenuti nel nostro negozio di ottica, dove visione e stile si incontrano.
-                        <br> Da anni ci dedichiamo a offrire soluzioni visive con un'attenzione
+                      <h4 class="home-text-color ">
+                      Gli esperti della visione
+                    </h4>
+
+                    <p>Benvenuti nel nostro negozio di ottica dove visione e stile si uniscono.
+                        <br>Da anni offriamo soluzioni visive con attenzione
                         paricolare al design e al confort.
                         <br>Siamo qui per
                         guidarvi nella scelta perfetta,
-                        <br> combinando tecnologia all'avanguardia e tendenze di moda.
+                        <br> combinando tecnologia d'avanguardia e tendenza di moda.
                     </p>
+
 
 
 
@@ -121,10 +126,10 @@
                 <!--sun and eye glasses description-->
                 <div
                     class="col-12 col-md-4 col-lg-3 nunito-text d-flex flex-column justify-content-center text-center mt-sm-50 mb-sm-40">
-                    <div class="">
+                    <div class="" data-aos="zoom-in" data-aos-duration="2500">
                         <p>Hai già visto le nostre ultime promozioni? Offerte incredibili ti aspettano! Non lasciartele
                             sfuggire. <br>
-                            Dai un’occhiata alla nostra pagina dedicata per trovare offerte speciali.
+                            Dai un’occhiata alla nostra pagina dedicata per trovare le offerte speciali.
                         </p>
                     </div>
                 </div>
@@ -142,10 +147,10 @@
 
                 <div
                     class="col-12 col-md-4 col-lg-3 nunito-text d-flex flex-column justify-content-center text-center mt-sm-50 mb-sm-40">
-                    <div class="">
-                        <p>Scoprite i nostri prodotti e servizi personalizzati per migliorare la vostra
-                            visione e valorizzare il vostro look.
-                            <br> Siamo qui per rendere ogni vostra visita un'esperienza unica e piacevole
+                    <div class="" data-aos="zoom-in" data-aos-duration="2500">
+                        <p>Scopri i nostri prodotti e servizi personalizzati per migliorare la tua
+                            visione e valorizzare il tuo look.
+                            <br> Siamo qui per rendere ogni visita un'esperienza unica e piacevole
                         </p>
                     </div>
                 </div>
@@ -168,15 +173,21 @@
             <div class="row justify-content-custom">
                 <!--sun and eye glasses description-->
                 <div
-                    class="col-12 col-md-6 col-lg-4 nunito-text d-flex flex-column align-items-center mt-sm-50 mb-sm-40">
+                    class="col-12 col-md-6 col-lg-4 nunito-text d-flex flex-column align-items-center mt-sm-50 mb-sm-40" data-aos="zoom-in" data-aos-duration="2500">
                     <div class="box-description">
-                        <h3>Occhiali da vista e da sole </h3>
+                        <h3>I nostri prodotti </h3>
                         <p>Disponibili in un'ampia gamma di montature, materiali e colori, gli occhiali
                             riflettono la personalità di chi li indossa, diventando un vero e proprio elemento
                             moda.</p>
                         <hr>
-                        <p> Rappresentano un
-                            investimento nella salute visiva e nel comfort quotidiano.</p>
+                        <p> Rappresentano un'investimento nella salute visiva e nel confort quotidiano.</p>
+                    
+                            <button class=" button-our-brand button-our-brand-hover shadow-1"
+                        onclick="location.href='{{route('prodotti')}}'">
+                        <i class="fa-solid fa-arrow-right fa-shake"></i>
+                        Prodotti
+                        <i class="fa-solid fa-arrow-left fa-shake"></i>
+                    </button>
                     </div>
                 </div>
                 <!--sun and eye glasses carousel-->
@@ -218,14 +229,15 @@
 
                 </div>
                 <!-- galileo description -->
-                <div class="col-12 col-md-6 col-lg-4 nunito-text d-flex flex-column align-items-center pb-sm-40">
+                <div class="col-12 col-md-6 col-lg-4 nunito-text d-flex flex-column align-items-center pb-sm-40" data-aos="zoom-in" data-aos-duration="2500">
                     <div class="box-description">
                         <h3>Centro ottico partner galileo:</h3>
                         <p>
-                            Il nuovo brand si basa su uno storyetelling incentrato sull'artigianalità italiana che
+                            Il nuovo brand si basa su uno storytelling incentrato sull'artigianalità italiana che
                             si fonde con le esigenze contemporanee.</p>
-                        <p>Il viaggio di galileo è un'evoluzione costante tra nnovazione e tradizione: <br>preparati
+                        <p>Il viaggio di galileo è un'evoluzione costante tra innovazione e tradizione: <br>preparati
                             a vivere nuove emozioni</p>
+                       
                     </div>
                 </div>
 
@@ -250,9 +262,8 @@
                         Il nostro impegno verso la qualità!
                     </h3>
 
-                    <p>Utiliziamo solo strumenti e tecnologie di ultima generazione per garantire precisione e
-                        soluzioni visive ottimali.
-                        <br>Collaboriamo con i migliori marchi del settore per offrire prodotti affidabili,
+                    <p>
+                        Collaboriamo con i migliori marchi del settore per offrire prodotti affidabili,
                         confortevoli e di tendenza.
                         <br>La nostra attenzione ai dettagli e la passione per l'eccellenza sono il cuore del nostro
                         servizio.

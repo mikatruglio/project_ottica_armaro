@@ -23,11 +23,11 @@
         <div class="container-fluid mt-md-20 mb-md-20 pt-sm-30 pb-sm-20 shadow-2 my-5">
             <div class="row justify-content-center ">
                 <div
-                    class="col-12 col-md-9 height-box d-flex flex-column justify-content-center text-center nunito-text">
+                    class="col-12 col-md-9 height-box d-flex flex-column justify-content-center text-center nunito-text" >
                     <h2 class="home-text-color">Ottica Armaro vi da il benvenuto!</h2>
                     <p>
                         Siamo orgogliosi di servire la nostra comunità con passione e dedizione, offrendo un'ampia gamma
-                        di servizi ottici e una selezione di occhiali e lenti di alta qualità.
+                        di servizi ottici e una selezione di occhiali e lenti di qualità.
                         <br>Il nostro impegno è garantire che ogni cliente riceva l'attenzione e la cura che merita,
                         aiutandolo a trovare la soluzione visiva perfetta per le sue esigenze.
                     </p>
@@ -48,8 +48,8 @@
                 </div>
                 <!-- description our mission -->
                 <div
-                    class="col-12 col-md-6 col-lg-4 nunito-text d-flex flex-column align-items-center border-bottom-sm768 pb-about-us-smmd-30">
-                    <div class="box-description">
+                    class="col-12 col-md-6 col-lg-4 nunito-text d-flex flex-column align-items-center border-bottom-sm768 pb-about-us-smmd-30" data-aos="zoom-in" data-aos-duration="2500">
+                    <div class="box-description" >
                         <h3 class="home-text-color">La nostra missione </h3>
 
                         <p>La nostra missione è migliorare la visione e la qualità della vita dei nostri clienti
@@ -69,7 +69,7 @@
             <div class="row justify-content-custom ">
 
                 <!-- description our mission -->
-                <div class="col-12 col-md-6 col-lg-4 nunito-text d-flex flex-column align-items-center pt-about-us-smmd-40">
+                <div class="col-12 col-md-6 col-lg-4 nunito-text d-flex flex-column align-items-center pt-about-us-smmd-40" data-aos="zoom-in" data-aos-duration="2500">
                     <div class="box-description">
                         <h3 class="home-text-color">I nostri valori </h3>
 
@@ -77,7 +77,7 @@
                             <hr class="home-text-color">
                         </p>
                         <p>Crediamo in un servizio trasparente e onesto, dove ogni consulenza è pensata per
-                            rispondere alle vostre esigenze.</p>
+                            rispondere alle tue esigenze.</p>
 
 
                     </div>
@@ -107,19 +107,19 @@
 
                 <!-- first img and description vieni a trovarci -->
                 <div
-                    class="col-12 col-md-6 col-lg-4 d-flex flex-column justify-content-custom align-items-center mt-1">
+                    class="col-12 col-md-6 col-lg-4 d-flex flex-column justify-content-custom align-items-center mt-1" >
                     <div class="img-negozio shadow-1">
                     </div>
-                    <div class="box-about-us flex-column mt-sm-10 mb-sm-10">
-                        <h3>Vieni atrovarci</h3>
+                    <div class="box-about-us flex-column mt-sm-10 mb-sm-10" data-aos="zoom-in" data-aos-duration="2500">
+                        <h3>Vieni a trovarci</h3>
 
-                        <p>in via caputo, vi invitiamo a visitare il nostro negozio per un controllo della
-                            vista, per una consulenza gratutita o semplicemente per scoprire la nostra vasta
+                        <p>in via B. Caputo, ti invitiamo a visitare il nostro negozio per un controllo della
+                            vista, per una consulenza gratutita o semplicemente per scoprire la nostra
                             collezione di occhiali.</p>
                         <hr>
                         siamo qui pe aiutarti a vedere il mondo con chiarezza e stile.
                         <hr>
-                        vi apettiamo!
+                        ti apettiamo!
                     </div>
                 </div>
                 <!-- second img vieni a trovarci (vetrina) -->

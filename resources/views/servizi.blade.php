@@ -30,11 +30,11 @@
                         <li> <a class="ancor-color-black" href="#Centratura-dell-occhiale">Centratura dell'occhiale</a>
                         </li>
                         <li> <a class="ancor-color-black" href="#Lenti-da-ufficio">Lenti progressive</a></li>
-                        <li> <a class="ancor-color-black" href="#Occhiali-per-lo-sport-graduati">Occhiali per lo sport
-                                graduati</a></li>
                         <li> <a class="ancor-color-black"
                                 href="#Garanzia-di-adattamento-su-lenti-oftalmiche-progressive">Garanzia di adattamento
                                 su lenti oftalmiche progressive</a></li>
+                       <!-- <li> <a class="ancor-color-black" href="#Occhiali-per-lo-sport-graduati">Occhiali per lo sport
+                                graduati</a></li> -->
                         <li> <a class="ancor-color-black" href="#Assistenza-post-vendita">Assistenza post vendita</a>
                         </li>
                     </div>
@@ -112,11 +112,11 @@
                 </div>
 
                 <!-- description analisi visiva -->
-                <div class="col-12 col-md-4 nunito-text d-flex flex-column align-items-center mt-sm-40 mb-sm-20">
+                <div class="col-12 col-md-4 nunito-text d-flex flex-column align-items-center mt-sm-40 mb-sm-20" data-aos="zoom-in" data-aos-duration="2500">
                     <div class="box-description">
                         <p>Esame visivo optometrico (o analisi visiva) per anomalie-ottico refrattive e/o per disturbi
-                            funzionali della visione (escluse patologie oculari in senso prorpio), a diverse età.</p>
-                        <p>All'interno del nostro punto vendita troverete un centro optometrico completamente attrezzato
+                            funzionali della visione (escluse patologie oculari in senso proprio), a diverse età.</p>
+                        <p>All'interno del nostro punto vendita troverete un centro optometrico attrezzato
                             per il rilevamento e l'analisi dei difetti visivi. </p>
                         <hr class="home-text-color">
                         <p>Solo il meglio delle soluzioni ottiche per la protezione e il miglioramento dell'efficienza
@@ -146,9 +146,9 @@
 
                 <!-- description centratura dell'occhiale -->
                 <div
-                    class="col-12 col-md-6 col-lg-4 nunito-text d-flex flex-column align-items-center pt-sm-40 pb-sm-30 ">
+                    class="col-12 col-md-6 col-lg-4 nunito-text d-flex flex-column align-items-center pt-sm-40 pb-sm-30 " data-aos="zoom-in" data-aos-duration="2500">
                     <div class="box-description">
-                        <h3>Centratura dell'occhiale</h3>
+                        <h3 class="home-text-color">Centratura dell'occhiale</h3>
                         <p>La centratura dell'occhiale garantisce che il centro ottico delle lenti sia perfettamente
                             allineato con le pupille.</p>
                         <hr>
@@ -183,9 +183,9 @@
                 </div>
                 <!-- first description lenti da ufficio -->
                 <div
-                    class="col-12 col-md-6 col-lg-4 nunito-text d-flex flex-column align-items-center mt-sm-40 mb-sm-30">
+                    class="col-12 col-md-6 col-lg-4 nunito-text d-flex flex-column align-items-center mt-sm-40 mb-sm-30" data-aos="zoom-in" data-aos-duration="2500">
                     <div class="box-description">
-                        <h3>Lenti progressive </h3>
+                        <h3 class="home-text-color">Lenti progressive </h3>
                         <p>Le lenti progressive vengono progettate per correggere la
                             presbiopia ed altri difetti visivi, permettendo una visione nitida a tutte le distanze senza
                             linee di demarcazione visibili. </p>
@@ -245,7 +245,7 @@
 
 
                 <!-- second description lenti da ufficio -->
-                <div class="col-12 col-md-6 col-lg-4 nunito-text d-flex flex-column align-items-center">
+                <div class="col-12 col-md-6 col-lg-4 nunito-text d-flex flex-column align-items-center" data-aos="zoom-in" data-aos-duration="2500">
                     <div class="box-description">
 
                         <h4>Vantaggi delle lenti progressive:</h4>
@@ -301,37 +301,55 @@
             <div class="row justify-content-center ">
                 <div
                     class="col-12 col-md-9 height-box d-flex flex-column justify-content-center text-center nunito-text border-container1 shadow-1">
-                    <p>Scopri le nostre lenti progressive per un'esperienza visiva ottimale sul lavoro. <br> Scegli il
+                        <p data-aos="zoom-in" data-aos-duration="2500">Scopri le nostre lenti progressive per un'esperienza visiva ottimale sul lavoro. <br> Scegli il
                         comfort e la precisione per le tue giornate lavorative!</p>
                 </div>
             </div>
         </div>
 
 
+        
+        <div id="Garanzia-di-adattamento-su-lenti-oftalmiche-progressive"></div>
+        <!-- container sports glasses -->
+        <div
+            class="container-fluid d-flex flex-column justify-content-custom vh-custom pb-md-50 mt-4 bg-garanzie">
+            <div class="row justify-content-custom ">
+
+
+                <!-- description sports glasses -->
+                <div class="col-12 col-md-6 col-lg-4 nunito-text d-flex flex-column align-items-center" data-aos="zoom-in" data-aos-duration="2500">
+                    <div class="box-description pt-sm-50">
+                        <h3 class="" >garanzia di adattamento su lenti oftalmiche progressive</h3>
+                        <p>la garanzia e' valida 30 giorni e' ci consente di gestire i casi in cui il portatore non sia riuscito ad adattarsi alle lenti <hr> il centro ottico puo' proporre lenti a scelta su tutta la gamma
+                        </p>
+                    </div>
+                </div>
+                <!-- immage sports glasses -->
+                <div class="col-12 col-md-6 col-lg-4 d-flex align-itmes-center justify-content-center pt-sm-40">
+                    <div>
+
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+        
+
+<!--
         <section class="background-white">
-            <!-- third introductive immage-->
-            <div class="bg-main-img-sport mt-md-50 mb-md-60 mt-sm-30 mb-sm-40" id="Occhiali-per-lo-sport-graduati">
+             third introductive immage
+            <div class="bg-main-img-sport mt-md-50 mb-md-60 mt-sm-30 mb-sm-40 shadow-1" id="Occhiali-per-lo-sport-graduati">
             </div>
 
-            <!--<div class="container-fluid mb-3">
-    <div class="row justify-content-between ">
-      <div class="col-12 d-flex flex-column justify-content-custom align-items-center bg-main-service4 border-radius-right">
 
-      </div>
-      <div class="col-12 d-flex flex-column justify-content-custom align-items-center bg-main-service4  border-radius-left">
-
-     </div>
-</div>
-</div>  -->
-
-
-            <!-- container sports glasses -->
+        
             <div
                 class="container-fluid d-flex flex-column justify-content-evenly vh-custom container-montature-per-lo-sport pb-md-50">
                 <div class="row justify-content-evenly align-items-center">
 
 
-                    <!-- description sports glasses -->
+                    
                     <div class="col-12 col-md-6 col-lg-4 nunito-text d-flex flex-column align-items-center ">
                         <div class="container-description-sport shadow-1">
 
@@ -347,7 +365,7 @@
 
                         </div>
                     </div>
-                    <!-- immage sports glasses -->
+                    
                     <div class="col-12 col-md-6 col-lg-4 d-flex align-itmes-center justify-content-evenly pt-sm-40">
                         <div class="box-img-sport shadow-1">
 
@@ -358,33 +376,10 @@
                 </div>
             </div>
 
-        </section>
+        </section>  -->
 
-        <div id="Garanzia-di-adattamento-su-lenti-oftalmiche-progressive"></div>
-        <!-- container sports glasses -->
-        <div
-            class="container-fluid d-flex flex-column justify-content-custom vh-custom pb-md-50 bg-garanzie">
-            <div class="row justify-content-custom ">
-
-
-                <!-- description sports glasses -->
-                <div class="col-12 col-md-6 col-lg-4 nunito-text d-flex flex-column align-items-center">
-                    <div class="box-description pt-sm-50">
-                        <h3>garanzia di adattamento su lenti oftalmiche progressive</h3>
-                        <p>la garanzia e' valida 30 giorni e' ci consente di gestire i casi in cui il portatore non sia riuscito ad adattarsi alle lenti <hr> il centro ottico puo' proporre lenti a scelta su tutta la gamma
-                        </p>
-                    </div>
-                </div>
-                <!-- immage sports glasses -->
-                <div class="col-12 col-md-6 col-lg-4 d-flex align-itmes-center justify-content-center pt-sm-40">
-                    <div>
-
-                    </div>
-                </div>
-
-
-            </div>
-        </div>
+        
+       
 
 
         <section class="background-white pb-50px">
@@ -427,7 +422,7 @@
 
 
                     <!-- description assistenza post vendita -->
-                    <div class="col-12 col-md-4 nunito-text d-flex flex-column align-items-center">
+                    <div class="col-12 col-md-4 nunito-text d-flex flex-column align-items-center" data-aos="zoom-in" data-aos-duration="2500">
                         <div class="box-description">
                             <!--<h3 class="col-12 text-center title-assistenza mb-5" >Assistenza post vendita</h3>-->
 

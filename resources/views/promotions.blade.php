@@ -95,7 +95,7 @@
         @foreach($promotions as $promotion)
 
            <div class="my-5">
-            <div class="container container-promotions img-promotion"
+            <div class="container container-promotions img-promotion shadow-1"
                 style="background-image: url('{{ Storage::url($promotion->img) }}')">
                 <div class="row justify-content-center title-promotion">
                     <div class="col-12 d-flex flex-column justify-content-center text-start">
@@ -116,7 +116,7 @@
                 </div>
             </div>
             @can('admin-access')
-            <div class="container container-edit mt-2">
+            <div class="container container-edit mt-2 shadow-1">
                 <div class="row">
                     <div class="col-6 d-flex flex-column jusctify-content-center align-items-center">
                         <a class="link-modify" href="{{ route('edit', $promotion->id) }}">modifica</a>

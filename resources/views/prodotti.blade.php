@@ -27,12 +27,12 @@
                 <div
                     class="col-12 col-md-9 height-box d-flex flex-column justify-content-center text-center nunito-text ">
                     <h2 class="home-text-color">
-                        Esplorate la sezione dedicata ai nostri prodotti!
+                        Esplora la sezione dedicata ai nostri prodotti!
                     </h2>
                     <p>
 
-                        Lenti a contatto, occhiali da vista e da sole. <br> Offriamo soluzioni per migliorare la vostra visione e il
-                        vostro stile. <br> Esplorate la nostra pagina per trovare il prodotto perfetto.
+                         Offriamo soluzioni per migliorare la tua visione e il
+                        tuo stile. <br> Esplora la nostra pagina per trovare il prodotto perfetto.
                     </p>
                 </div>
             </div>
@@ -46,15 +46,16 @@
     <div class="container-fluid d-flex flex-column justify-content-center vh-custom box-prodotti pt-md-70 mb-md-60">
         <div class="row justify-content-custom">
             <!-- correptive glasses description -->
-            <div class="col-12 col-md-6 col-lg-4 nunito-text d-flex flex-column align-items-center mt-sm-50 mb-sm-40">
+            <div class="col-12 col-md-6 col-lg-4 nunito-text d-flex flex-column align-items-center mt-sm-50 mb-sm-40" data-aos="zoom-in" data-aos-duration="2500">
                 <div class="box-description">
                     <h3 class="home-text-color">Occhiali da vista </h3>
-                    <p>Offriamo una gamma completa di occhiali da vista da donna e da uomo. Scopri le montature e i colori disponibili e trova il modello che si adatta al tuo viso.</p>
+                   <p>Offriamo una gamma completa di occhiali da vista da donna e da uomo. Scopri le montature e i colori disponibili e trova il modello che si adatta al tuo viso.</p>
                     <p>
                         <hr class="home-text-color">
                         Scegli tra le nostre opzioni personalizzabili per migliorare non solo la tua vista, ma
                         anche il tuo look quotidiano.
                     </p>
+
                 </div>
             </div>
             <!-- swiper carousel correptive glasses -->
@@ -87,16 +88,17 @@
     <div class="container-fluid d-flex flex-column justify-content-center vh-custom pb-md-70">
         <div class="row justify-content-custom">
             <!-- sun glasses description -->
-            <div class="col-12 col-md-6 col-lg-4 nunito-text d-flex flex-column align-items-center mt-sm-50 mb-sm-40">
+            <div class="col-12 col-md-6 col-lg-4 nunito-text d-flex flex-column align-items-center mt-sm-50 mb-sm-40" data-aos="zoom-in" data-aos-duration="2500">
                 <div class="box-description">
                     <h3 class="home-text-color">Occhiali da sole </h3>
-                    <p>Scopri la nostra collezzione di occhiali da sole, dove stile e protezione si incontrano.</p>
-                    <p>Dai modelli classici a quelli più alla moda, ogni paio è progettato per proteggere i vostri occhi
+                    <p>Scopri la nostra collezione di occhiali da sole, dove stile e protezione si incontrano.</p>
+                    <p>Dai modelli classici a quelli più alla moda, ogni paio è progettato per proteggere i tuoi occhi
                         dai raggi UV, garantendo al contempo un comfort eccellente.</p>
                     <hr class="home-text-color">
                     <p>
                         Che siate in cerca di un look sofisticato o casual, troverete l'accessorio perfetto per
                         esprimere il vostro stile unico e proteggere la vostra vista.</p>
+
                 </div>
             </div>
             <!-- swiper carousel sun glasses -->
@@ -150,15 +152,16 @@
     <div class="container-fluid d-flex flex-column justify-content-center vh-custom mt-md-40">
         <div class="row justify-content-custom">
             <!-- kids glasses description -->
-            <div class="col-12 col-md-6 col-lg-4 nunito-text d-flex flex-column align-items-center">
+            <div class="col-12 col-md-6 col-lg-4 nunito-text d-flex flex-column align-items-center" data-aos="zoom-in" data-aos-duration="2500">
                 <div class="box-description">
                     <h3 class="home-text-color">Occhiali per bambino sotto i 10 anni</h3>
                     <p> E' fondamentale scegliere montature resistenti, leggere e confortevoli, preferibilmente in
-                        materiali flessibili, che possano resistere agli urti e alle attività quotidiane.</p>
+                        materiali flessibili, che possano resistere agli urti e alle attività  quotidiane.</p>
                     <p>E' inoltre consigliabile optare per lenti con trattamento antiriflesso, protezione UV e luce blu, per salvaguardare gli occhi dei più piccoli.</p>
                     <hr>
                     <p>Gli occhiali per bambino possono anche essere personalizzati con design colorati, rendendo
                         l'esperienza più divertente e incoraggiandoli a indossarli con piacere.</p>
+
                 </div>
             </div>
 
@@ -178,11 +181,13 @@
     </div>
 
 
+   
+
     <!-- forth container contact lensess-->
-    <div class="container-fluid d-flex flex-column justify-content-center vh-custom mb-md-40">
+    <div class="container-fluid d-flex flex-column justify-content-center vh-custom">
         <div class="row justify-content-custom">
             <!-- contact lensess description -->
-            <div class="col-12 col-md-6 col-lg-4 nunito-text d-flex flex-column align-items-center">
+            <div class="col-12 col-md-6 col-lg-4 nunito-text d-flex flex-column align-items-center" data-aos="zoom-in" data-aos-duration="2500">
                 <div class="box-description">
                     <h3 class="home-text-color">Lenti a contatto </h3>
                     <p>Le lenti a contatto offrono una soluzione versatile per la correzione della vista, garantendo
@@ -206,6 +211,38 @@
         </div>
 
     </div>
+
+
+        <!-- description sports glasses -->
+   <div class="container-fluid d-flex flex-column justify-content-center vh-custom">
+        <div class="row justify-content-custom">
+
+                    <div class="col-12 col-md-6 col-lg-4 nunito-text d-flex flex-column align-items-center" >
+                        <div class="container-description-sport shadow-1">
+                          <div data-aos="zoom-in" data-aos-duration="2500">
+                            <h3 class="home-text-color">Montature per lo sport </h3>
+                            <ul>
+                                <li>Certificate con lenti neutre</li>
+                                <li>Certificate con lenti in diottria rx</li>
+                                <li>Per il tempo libero</li>
+                                <li>Vista + sole</li>
+                                <li>Occhiali da piscina in diottria</li>
+                                <li>Maschera da sub in diottria</li>
+                            </ul>
+                        </div>
+
+                        </div>
+                    </div>
+                    <!-- immage sports glasses -->
+                    <div class="col-12 col-md-6 col-lg-4 d-flex align-itmes-center justify-content-evenly pt-sm-60 pb-sm-20">
+                        <div class="box-img-sport shadow-1">
+
+                        </div>
+                    </div>
+        </div>
+    </div>
+
+
 
     <div class="container-fluid d-flex flex-column justify-content-center align-items-center bg-light  mt-5">
         <div class="row justify-content-center aligni--items-center w-100 h250 ">
